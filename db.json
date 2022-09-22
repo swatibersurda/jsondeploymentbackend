@@ -49,6 +49,7 @@
     ],
     "data":[
       {
+        "id":1,
         "category": "",
         "image_url": "",
         "type_of_room": "",
