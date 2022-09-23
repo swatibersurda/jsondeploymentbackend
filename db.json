@@ -1,19 +1,28 @@
 {
-  
-     
-    
- 
     "data":[
+      
+        {
+          "category": "family",
+          "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "type_of_room": "AC",
+          "bed_type": "single",
+          "no_of_persons": 2,
+          "capacity": 3,
+          "cost": 10000,
+          "booked": false,
+          "id": 1
+        }
+      ,
       {
-        "id":1,
-        "category": "",
-        "image_url": "",
-        "type_of_room": "",
-        "bed_type": "",
-        "no_of_persons":"",
-        "capacity":"",
-        "cost":"",
-        "booked":false
+        "category": "family",
+        "image_url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "type_of_room": "AC",
+        "bed_type": "single",
+        "no_of_persons": 2,
+        "capacity": 3,
+        "cost": 20000,
+        "booked": false,
+        "id": 2
       }
     ]
    
