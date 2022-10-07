@@ -122,6 +122,15 @@
         "contract": "Part Time",
         "location": "United Kingdom"
       }
-    ]
+    ],
+
+    "signup":[
+      {
+      "name":"swati",
+      "email":"swatibersurda@gmail.com",
+      "password":"1111"
+      }
+  ]
+
    
   }
